@@ -252,6 +252,7 @@ header {
   border-radius: 5px;
   padding: 2rem;
   transition: background 0.2s linear;
+  cursor: pointer;
 }
 
 .card.light {
